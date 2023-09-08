@@ -16,25 +16,26 @@ output:
  
 ## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+I'm Tamisha, a passionate advocate for fairness, a relentless hard-worker, and a lifelong learner. My journey in the world of biomedical engineering, paired with my background in Computer Engineering, has led me to a groundbreaking research path where I'm committed to eliminating biases in computational medicine. My goal is to ensure that the medical and clinical algorithms we rely on are not only accurate but also equitable.
+
+I'm driven by a deep-seated desire to increase representation, particularly for Black women, in the STEM and healthcare sectors. Beyond academia, I'm actively involved in volunteer work, including serving my church community and collaborating with organizations like Black Sisters in STEM.
+
+In my downtime, I unleash my creative side through digital illustration and the graceful art of calligraphy. I'm also a proud blogger, sharing insights and experiences from my unique perspective.
+
+Thank you for stopping by my corner of the web, where I'm excited to share my research journey, experiences, and a slice of my vibrant life.
 
 ## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+**The Johns Hopkins University** | Baltimore, MD
 
-Ph.D. in Computer Science | September 2009 - May 2014
+MSE in Biomedical Engineering | August 2022 - Present
 
-**The University of California, Berkeley** | Berkeley, CA
+**Ashesi University** | Berekuso, GH
 
-B.S. in Computer Science | September 2005 - May 2009
+B.S. in Computer Engineering | September 2017 - June 2021
 
 ## Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+**Translational Informatics and Research Insights (TIRI) Lab** | Master's Thesis Researcher | August 2022 - Present
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+**Ashesi University** | Scholarship of Teaching & Learning (SoTL) Research Assistant | August 2021 - July 2022
